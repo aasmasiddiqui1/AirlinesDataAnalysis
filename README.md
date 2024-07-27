@@ -5,6 +5,6 @@ This project covers the complete end to end project on data analysis using SQL a
 - Introduction to the Project
 - Understanding Business Problem
 - Importing Libraries
-- Database connection using sqlite3
+- Database connection using MSSQL
 - Exploratory Data Analysis / Data Exploration
 - Data Analysis
