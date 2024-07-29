@@ -1,4 +1,4 @@
-# AirlinesDataAnalysis
+# PizzaCaseStudy 
 
 This project covers the complete end to end project on data analysis using SQL and Python. It includes creating code and report to present the findings and results.
 
